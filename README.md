@@ -1,1 +1,1 @@
-Digital Business Cards for Narvalo Design Factory
+Repo for docs linked to a QR code to be scanned
